@@ -17,7 +17,7 @@ function App() {
         <Navbar />
           <Route exact path="/" component={Header} />
           <Route path="/quiz-game" component={() => <QuizGame data={QuizData} />} />
-          <Route path="/final-game" component={FinalChallenge}/>
+          <Route path="/final-game" component={() => <FinalChallenge  />} />
           
         
       </div>
