@@ -1,4 +1,4 @@
-import React from 'react';
+
 import DanielDayLewis from './assets/img/DanielDayLewis.png';
 import Zlatan from './assets/img/Zlatan.jpg';
 import Romania from './assets/img/romania94.jpg';

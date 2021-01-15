@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
 
 import Congrats from '../../assets/img/Congratulations .png';
-import ToggleQuiz from '../../components/ToggleQuiz/toggleQuiz';
-import Button2 from '../../components/Buton/Button2';
+
 import './FinalQuiz.css'
 import Fjord from '../../assets/img/fjord.jpg';
 import Meyer from '../../assets/img/meyer.jpg';

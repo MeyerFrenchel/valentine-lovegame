@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
 
 import SecretPage  from '../../components/SecretPage/SecretPage';
 import Password  from '../../components/Password/Password';

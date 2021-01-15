@@ -5,7 +5,7 @@ import React, { Component } from 'react';
 import Music from '../../components/Music/Music';
 import ImageSlider from '../../components/ImageSlider/imageSlider';
 import { SliderData } from '../../components/ImageSlider/SliderData';
-import { CacaData } from '../../components/ImageSlider/CacaData';
+
 
 
 export default class Toggle extends Component{

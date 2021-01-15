@@ -5,7 +5,7 @@ import ToggleQuiz from '../../components/ToggleQuiz/toggleQuiz';
 import Button2 from '../../components/Buton/Button2';
 import './QuizGame.css'
 import { SliderData } from '../../components/ImageSlider/SliderData';
-import { CacaData } from '../../components/ImageSlider/CacaData';
+
 
 
 
@@ -36,7 +36,7 @@ export default function QuizGame(props) {
                     <p>You scored {score} out of {data.length}</p> 
 					<img className='felicitari' src={Congrats} alt="felicitari"/>
 					
-					<ToggleQuiz data={CacaData} />
+					<ToggleQuiz data={SliderData} />
 					<Button2 />
 				</div>
 			) : (
