@@ -1,0 +1,15 @@
+.btn-2{
+    font-family: 'Gochi Hand', cursive;
+    background-color: #ef4f4f;
+    color: #ffcda3;
+    
+    padding-right: 20%;
+    padding-bottom: 9%;
+    text-decoration: none;
+    font-size: 35px;
+    width: 220px;
+    height: 120px;
+    outline: none;
+    border: 10px #74c7b8;
+    border-radius: 38% 62% 82% 18% / 59% 22% 78% 41%;
+}
